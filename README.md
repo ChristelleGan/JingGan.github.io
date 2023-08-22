@@ -3,8 +3,8 @@
 Jing Gan
 
 
-Education:CUNY Tech Prep, Data Science Cohort 9, Class of 2024
-          City University of New York,  College of Staten  Island
+Education: CUNY Tech Prep, Data Science Cohort 9, Class of 2024
+           City University of New York,  College of Staten  Island
 
 Break Through Tech AI New York at Cornell Tech, New York, NY						       Aug 2023    
 Certificate in Machine Learning / AI
